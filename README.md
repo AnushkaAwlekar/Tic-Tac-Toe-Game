@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 A fun and classic **Tic Tac Toe** game created using HTML, CSS, and JavaScript.  
-Players can compete against each other or the computer in a simple, clean, and responsive interface.  
+Players can compete against each other in a simple, clean, and responsive interface.  
 
 ---
 
@@ -15,7 +15,7 @@ https://github.com/user-attachments/assets/ed644293-8eab-4762-955c-bad2a80db5b4
 
 ## 🚀 Features
 - Two-player mode
-- Option to play against the computer
+- Option to play against the another player
 - Real-time winner detection
 - Highlight winning combinations
 - Responsive design for desktop and mobile
@@ -52,10 +52,5 @@ tic-tac-toe/
 ## 💡 Future Improvements
 - Add difficulty levels for computer opponent
 - Implement score tracking
-- Add restart animation and sound effects
 - Allow online multiplayer
 
----
-
-## 📜 License
-This project is open-source and available under the **MIT License**.
